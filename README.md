@@ -1,4 +1,4 @@
-# addcasimages
+# addzupimages
 Add ZupImages service on phpBB 3.1.x and phpBB 3.2.x message editor
 
 ## Quick Install
