@@ -22,5 +22,8 @@ Remember to purge cache each time you edit the templates after the installation
 
 ## Version History
 
+ - 2018.03.15
+ - 1.0.1 : Change API
+ 
  - 2018.02.01
  - 1.0.0 : Stable version
